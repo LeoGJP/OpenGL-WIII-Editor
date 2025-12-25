@@ -1,4 +1,3 @@
-![Comp 3_04707](https://github.com/user-attachments/assets/f5a7732f-d721-4ab4-905e-7fe7646abe9a)
 
 # 📦 Requirements
 
